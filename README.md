@@ -1,2 +1,2 @@
-# Nguvu-ya-Imani-Katoliki.-
-Ni maalumu kwa wakristo wote ili kujifunza kuhusu imani yetu.
+# Nguvu-ya-Imani-Katoliki app.-
+App ya nguvu ya imani Katoliki-Android + Ios 
